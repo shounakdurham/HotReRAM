@@ -1,0 +1,61 @@
+256KB ReRAM
+-----------
+	Area:
+	 - Total Area = 5.896mm^2
+	 |--- Data Array Area = 1696.435um x 3137.970um = 5.323mm^2
+	 |--- Tag Array Area  = 870.838um x 657.280um = 0.572mm^2
+
+	Area:
+	 - Total Area = 1.696mm x 3.138mm = 5.323mm^2
+	 |--- Mat Area      = 424.109um x 784.492um = 332710.111um^2   (0.666%)
+	 |--- Subarray Area = 212.054um x 390.650um = 82839.042um^2   (0.669%)
+
+
+512KB ReRAM
+-----------
+	Area:
+	 - Total Area = 5.826mm^2
+	 |--- Data Array Area = 1713.075um x 3147.409um = 5.392mm^2
+	 |--- Tag Array Area  = 921.333um x 471.380um = 0.434mm^2
+
+	Area:
+	 - Total Area = 1.713mm x 3.147mm = 5.392mm^2
+	 |--- Mat Area      = 428.269um x 786.852um = 336984.196um^2   (1.315%)
+	 |--- Subarray Area = 214.134um x 390.650um = 83651.594um^2   (1.324%)
+
+1024KB ReRAM
+------------
+	Area:
+	 - Total Area = 6.380mm^2
+	 |--- Data Array Area = 1746.355um x 3155.801um = 5.511mm^2
+	 |--- Tag Array Area  = 1842.666um x 471.380um = 0.869mm^2
+
+	Area:
+	 - Total Area = 1.746mm x 3.156mm = 5.511mm^2
+	 |--- Mat Area      = 436.589um x 788.950um = 344446.786um^2   (2.572%)
+	 |--- Subarray Area = 218.294um x 390.650um = 85276.698um^2   (2.598%)
+
+2048KB ReRAM
+------------
+	Area:
+	 - Total Area = 7.480mm^2
+	 |--- Data Array Area = 1812.915um x 3167.544um = 5.742mm^2
+	 |--- Tag Array Area  = 1842.666um x 942.760um = 1.737mm^2
+
+	Area:
+	 - Total Area = 1.813mm x 3.168mm = 5.742mm^2
+	 |--- Mat Area      = 453.229um x 791.886um = 358905.534um^2   (4.937%)
+	 |--- Subarray Area = 226.614um x 390.650um = 88526.906um^2   (5.004%)
+
+4096KB ReRAM
+------------
+	Area:
+	 - Total Area = 7.580mm^2
+	 |--- Data Array Area = 1946.035um x 3166.549um = 6.162mm^2
+	 |--- Tag Array Area  = 1836.500um x 771.745um = 1.417mm^2
+
+	Area:
+	 - Total Area = 1.946mm x 3.167mm = 6.162mm^2
+	 |--- Mat Area      = 486.509um x 791.637um = 385138.472um^2   (9.202%)
+	 |--- Subarray Area = 243.254um x 390.650um = 95027.322um^2   (9.324%)
+

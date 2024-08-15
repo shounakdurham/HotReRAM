@@ -1,0 +1,153 @@
+=============
+65nm
+=============
+Data Array
+----------
+ - Read Dynamic Energy = 143.388pJ
+ - Write Dynamic Energy = 682.714pJ
+
+Tag Array
+---------
+ - Read Dynamic Energy = 89.200pJ
+ - Write Dynamic Energy = 385.639pJ
+
+
+Hit and Miss Energy
+-------------------
+ - Cache Hit Dynamic Energy   = 0.233nJ per access
+ - Cache Miss Dynamic Energy  = 0.089nJ per access
+
+
+Total Energy
+------------
+ - Read Energy = 232.588pJ (tag read + data read)
+ - Write Energy = 771.914pJ (tag read + data write)
+ - WB Energy = 1068.353pJ (tag write + data write)
+
+
+
+Leakage Power (65nm)
+--------------------
+  320K --> 94.011mW
+  330K --> 99.865mW
+  340K --> 105.729mW
+  350K --> 111.585mW
+  360K --> 117.452mW
+  370K --> 123.327mW
+
+
+=============
+45nm
+=============
+Data Array
+----------
+ - Read Dynamic Energy = 107.837pJ
+ - Write Dynamic Energy = 617.552pJ
+
+Tag Array
+---------
+ - Read Dynamic Energy = 90.364pJ
+ - Write Dynamic Energy = 384.956pJ
+
+
+Hit and Miss Energy
+-------------------
+ - Cache Hit Dynamic Energy   = 0.198nJ per access
+ - Cache Miss Dynamic Energy  = 0.090nJ per access
+
+
+Total Energy
+------------
+ - Read Energy = 198.201pJ
+ - Write Energy = 707.916pJ
+ - WB Energy = 1002.508pJ
+
+
+
+Leakage Power (45nm)
+--------------------
+  320K --> 34.960mW
+  330K --> 40.292mW
+  340K --> 46.085mW
+  350K --> 52.248mW
+  360K --> 58.965mW
+  370K --> 66.145mW
+
+
+
+=============
+32nm
+=============
+Data Array
+----------
+ - Read Dynamic Energy = 166.291pJ
+ - Write Dynamic Energy = 524.416pJ
+
+Tag Array
+---------
+ - Read Dynamic Energy = 82.747pJ
+ - Write Dynamic Energy = 388.186pJ
+
+
+Hit and Miss Energy
+-------------------
+ - Cache Hit Dynamic Energy   = 0.249nJ per access
+ - Cache Miss Dynamic Energy  = 0.083nJ per access
+
+
+Total Energy
+------------
+ - Read Energy = 249.038pJ
+ - Write Energy = 607.163pJ
+ - WB Energy = 912.602pJ
+
+
+
+Leakage Power (32nm)
+--------------------
+  320K --> 61.967mW
+  330K --> 66.591mW
+  340K --> 71.092mW
+  350K --> 75.598mW
+  360K --> 80.108mW
+  370K --> 84.622mW
+
+
+=============
+22nm
+=============
+Data Array
+----------
+ - Read Dynamic Energy = 100.323pJ
+ - Write Dynamic Energy = 802.173pJ
+
+Tag Array
+---------
+ - Read Dynamic Energy = 107.289pJ
+ - Write Dynamic Energy = 410.488pJ
+
+
+Hit and Miss Energy
+-------------------
+ - Cache Hit Dynamic Energy   = 0.208nJ per access
+ - Cache Miss Dynamic Energy  = 0.107nJ per access
+
+
+Total Energy
+------------
+ - Read Energy = 207.612pJ
+ - Write Energy = 909.462pJ
+ - WB Energy = 1212.661pJ
+
+
+
+Leakage Power (22nm)
+--------------------
+  320K --> 39.388mW
+  330K --> 42.727mW
+  340K --> 48.314mW
+  350K --> 68.350mW
+  360K --> 135.049mW
+  370K --> 258.849mW
+
+
